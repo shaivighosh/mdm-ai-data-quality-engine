@@ -97,7 +97,7 @@ similarity > 0.85 → duplicate
   "confidence": 0.91
 }
 
-#### Stored in STEP: 
+#### Stored in STEP (Future upgrade)
 
 Data Container:
 - Product IDs
@@ -106,3 +106,7 @@ Data Container:
 
 #### FastAPI Integration
 - Endpoint: POST /process-products
+
+
+<img width="1862" height="1003" alt="image" src="https://github.com/user-attachments/assets/369ddaf8-9fc7-480c-8aa7-d324fed48355" />
+
