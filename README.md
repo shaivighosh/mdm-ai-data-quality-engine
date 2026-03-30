@@ -1,5 +1,5 @@
 # mdm-ai-data-quality-engine
-AI-powered product data quality engine for MDM. performs enrichment, validation, and semantic duplicate detection using embeddings, integrated with STEP via FastAPI.
+AI-powered product data quality engine for MDM. Performs enrichment, validation, and semantic duplicate detection using embeddings, to be integrated with STEP via FastAPI.
 
 ## Overview
 This project improves product data quality in the STEP MDM system by adding an intelligent AI layer that performs:
@@ -104,8 +104,7 @@ Data Container:
 - Confidence Score
 - Duplicate Group ID
 
-#### FastAPI Integration
-- Endpoint: POST /process-products
+#### FastAPI Endpoint 
 
 
 <img width="1862" height="1003" alt="image" src="https://github.com/user-attachments/assets/369ddaf8-9fc7-480c-8aa7-d324fed48355" />
